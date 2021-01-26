@@ -13,4 +13,4 @@ Jalankan file "tucil1.exe"
 Jalan command prompt atau sejenisnya pada folder yang berisi source code "tucil1.py"
 masukkan command line:
 
-`python -u "d:\Kuliah\smt 4\stima\Tucil1_13519075\src\tucil1.py`
+`python -u "\tucil1.py"`
