@@ -18,7 +18,7 @@ masukkan command line:
 ## Catatan Lain:
 Gunakan nama file lengkap berserta ekstensinya pada saat penginputan nama file cth `cryptarithmetic.txt`
 
-Jika file tucil1.exe hilang setelah di download kemungkinan besar antivirus menganggap file sebagai virus
+Jika file tucil1.exe hilang setelah di download kemungkinan besar antivirus menganggap file sebagai virus.
 Pastikan memberitahu antivirus file aman atau mematikan antivirus sementara
 
 ## Author
