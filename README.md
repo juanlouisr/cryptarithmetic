@@ -7,7 +7,9 @@ OS: Windows (Menjalankan via executeable)
 
 ## Cara Menjalankan
 ### 1. Via Executeable
-Jalankan file "tucil1.exe"
+Download "tucil1.exe" via relase, Jalankan file "tucil1.exe"
+Masih terdapat false detection sebagai virus trojan pada beberapa antivirus
+pastikan anda mematikan antivirus terlebih dahulu
 
 ### 2. Via source code
 Jalan command prompt atau sejenisnya pada folder yang berisi source code "tucil1.py"
@@ -23,3 +25,6 @@ Pastikan memberitahu antivirus file aman atau mematikan antivirus sementara
 
 ## Author
 Juan Louis Rombetasik 13519075
+
+## About
+Tugas Kecil Strategi Algoritma
