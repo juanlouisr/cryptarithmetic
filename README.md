@@ -1,6 +1,8 @@
 # Cryptarithmetic solver
 Tugas kecil 1 Strategi Algoritma IF2211
 
+https://github.com/mizuday/cryptarithmetic
+
 ## Prerequisite
 Python 3.5+ (Menjalankan via source code)
 OS: Windows (Menjalankan via executeable)
