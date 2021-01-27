@@ -7,7 +7,9 @@ OS: Windows (Menjalankan via executeable)
 
 ## Cara Menjalankan
 ### 1. Via Executeable
-Download "tucil1.exe" via relase, Jalankan file "tucil1.exe"
+clone repository / download source code terlebih dahulu
+
+Download "tucil1.exe" via relase dan ekstrak kedalam folder `cryptarithmetic/bin` Jalankan file "tucil1.exe"
 Masih terdapat false detection sebagai virus trojan pada beberapa antivirus
 pastikan anda mematikan antivirus terlebih dahulu
 
@@ -18,7 +20,7 @@ masukkan command line:
 `$ python -u tucil1.py`
 
 ## Catatan Lain:
-Gunakan nama file lengkap berserta ekstensinya pada saat penginputan nama file cth `cryptarithmetic.txt`
+Gunakan nama file lengkap berserta ekstensinya pada saat penginputan nama file cth `cryptarithmetic.txt` File-file permasalah terdapat pada folder `/test`
 
 Jika file tucil1.exe hilang setelah di download kemungkinan besar antivirus menganggap file sebagai virus.
 Pastikan memberitahu antivirus file aman atau mematikan antivirus sementara
