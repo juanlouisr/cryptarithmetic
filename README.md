@@ -10,6 +10,7 @@ OS: Windows (Menjalankan via executeable)
 clone repository / download source code terlebih dahulu
 
 Download "tucil1.exe" via relase dan ekstrak kedalam folder `cryptarithmetic/bin` Jalankan file "tucil1.exe"
+
 Masih terdapat false detection sebagai virus trojan pada beberapa antivirus
 pastikan anda mematikan antivirus terlebih dahulu
 
