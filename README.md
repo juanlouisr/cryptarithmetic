@@ -21,7 +21,7 @@ masukkan command line:
 `$ python -u tucil1.py`
 
 ## Catatan Lain:
-Gunakan nama file lengkap berserta ekstensinya pada saat penginputan nama file cth `cryptarithmetic.txt` File-file permasalah terdapat pada folder `/test`
+Gunakan nama file lengkap berserta ekstensinya pada saat penginputan nama file cth `cryptarithmetic.txt` File-file permasalahan terdapat pada folder `/test`
 
 Jika file tucil1.exe hilang setelah di download kemungkinan besar antivirus menganggap file sebagai virus.
 Pastikan memberitahu antivirus file aman atau mematikan antivirus sementara
